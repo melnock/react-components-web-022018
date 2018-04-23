@@ -4,7 +4,7 @@ We're really excited that you're about to contribute to the [open curriculum](ht
 
 ## Raising an Issue to Encourage a Contribution
 
-If you notice a problem with the curriculum that you believe needs improvement
+If you notice a problem with the curriculum that you believ needs improvement
 but you're unable to make the change yourself, you should raise a Github issue
 containing a clear description of the problem. Include relevant snippets of
 the content and/or screenshots if applicable. Curriculum owners regularly review
